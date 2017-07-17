@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DCKrakenViewTool::Renderer.copyright 'Donovan Bracken', 'All rights reserved'
+```
 
 ## Development
 
